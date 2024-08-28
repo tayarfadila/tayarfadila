@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Cute Character](https://github.com/tayarfadila/tayarfadila/cat.webp)
+![Cute Character](https://github.com/tayarfadila/tayarfadila/raw/main/cat.webp)
 
 # Welcome to my profile !
 
