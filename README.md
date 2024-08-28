@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![image](https://github.com/user-attachments/assets/59ecdaea-9de1-46fe-9c38-efeeccd9a720)
+![Cute Character](./cat.webp)
 
 # Welcome to my profile !
 
