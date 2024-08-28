@@ -7,7 +7,7 @@
     </p>
 
 
-# Welcome to my profile !
+### Welcome to my profile !
 
 Take a tour, I would love to hear your thoughts and suggestions.
 
