@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-<img src="https://github.com/yourusername/yourrepositoryname/raw/main/cute_character.png" width="200"/>
+  <p align="center">
+        <a href="https://longtao.fun">
+            <img src="cat.webp" width="50"/>
+        </a>
+    </p>
+
 
 # Welcome to my profile !
 
