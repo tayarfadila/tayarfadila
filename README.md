@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Cute Character](./cat.webp)
+![Cute Character](https://github.com/tayarfadila/tayarfadila/cat.webp)
 
 # Welcome to my profile !
 
