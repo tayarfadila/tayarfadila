@@ -1,7 +1,6 @@
 
-
+<h3>Hi there 👋</h3>
   <p align="center">
-    <h3>Hi there 👋</h3>
         <a href="https://longtao.fun">
             <img src="cat.webp" width="50"/>
         </a>
