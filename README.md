@@ -1,4 +1,4 @@
-
+<div align="center">
 <h3>Hi there 👋</h3>
   <p align="center">
         <a href="https://longtao.fun">
@@ -14,3 +14,4 @@ Take a tour, I would love to hear your thoughts and suggestions.
 Your support is highly appreciated !! ^-^
 
 ✨ Cheers ✨
+</div>
